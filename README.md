@@ -25,7 +25,7 @@ Carrossel com 6 slides explicando a Tríade CIA e como aplicá-la na prática:
 ![Disponibilidade](assets/Disponibilidade_%20operação%20contínua.png)
 ![Tecnologia conectada à Tríade](assets/Tecnologia%20conectada%20à%20Tríade.png)
 
-🔗 **Publicação no LinkedIn:** *([Adicione aqui o link do post após publicar](https://lnkd.in/p/dAUayAxB))*
+🔗 **Publicação no LinkedIn:** *([](https://lnkd.in/p/dAUayAxB)])*
 
 ## 💭 Reflexão
 Criar este projeto com apoio de Inteligência Artificial mostrou na prática que a tecnologia multiplica a capacidade de entrega, mas é o conhecimento técnico prévio que garante a qualidade do resultado. Como iniciante na criação de materiais visuais com IA, meu maior aprendizado foi perceber que um bom prompt não nasce do zero: foi a minha base de estudos em **ISO/IEC 27001** e **FortiGate (Fortinet NSE 4)** que permitiu definir cenários reais, evitar erros conceituais (como confundir FSSO com MFA ou isolar ferramentas em um único pilar) e estruturar o comando no ChatGPT e no Gemini. O que mais me surpreendeu foi ver o Canva IA transformar essas especificações técnicas em diagramas claros e organizados, reforçando a importância da revisão crítica humana em cada etapa do processo.
