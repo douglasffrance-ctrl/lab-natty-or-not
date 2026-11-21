@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Tríade CIA: O que é e como aplicar na sua empresa? 🔐
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um carrossel criado com apoio de IA com o objetivo de explicar o que é a Tríade CIA (Confidencialidade, Integridade e Disponibilidade) e sua importância nas empresas, detalhando controles técnicos e de governança utilizados para mitigação de riscos. O conteúdo foi desenvolvido para orientar profissionais, gestores e empresas que querem entender os pilares da segurança da informação de forma visual, leve e objetiva.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT** — Utilizado para organizar e estruturar o prompt inicial, com base nos meus estudos de **ISO/IEC 27001** e **FortiGate (Fortinet NSE 4)**
+- **Gemini** — Utilizado para revisar, refinar e polir o prompt gerado para aplicação no Canva
+- **Canva IA** — Utilizado para criar os 6 slides do carrossel no formato vertical 4:5 (1080 × 1350 px), exportados em PDF e PNG com base no prompt final
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Reuni minha base de conhecimentos em **ISO/IEC 27001** (apoiada em material de estudo da norma) e **FortiGate (Fortinet NSE 4)** para definir os cenários de risco, os controles técnicos e as regras de precisão conceitual do projeto.
+2. Usei o **ChatGPT** para organizar e estruturar o prompt inicial em blocos (Papel, Tarefa, Contexto, Formato e Exemplo).
+3. Refinei o prompt com o **Gemini** para deixá-lo mais leve, polido e adequado à geração visual no Canva, incluindo conceitos como segmentação de rede, proxy, inspeção de tráfego e criptografia pós-quântica (PQC).
+4. Apliquei o prompt final no **Canva IA** para a execução e criação dos 6 slides do carrossel.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Carrossel com 6 slides explicando a Tríade CIA e como aplicá-la na prática:
 
-### Exemplos e Insigths
+![Capa](assets/Capa_%20Tríade%20CIA.png)
+![Entendendo a Tríade CIA](assets/Entendendo%20a%20Tríade%20CIA.png)
+![Confidencialidade](assets/Confidencialidade_%20controle%20de%20acesso.png)
+![Integridade](assets/Integridade_%20dados%20confiáveis.png)
+![Disponibilidade](assets/Disponibilidade_%20operação%20contínua.png)
+![Tecnologia conectada à Tríade](assets/Tecnologia%20conectada%20à%20Tríade.png)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+🔗 **Publicação no LinkedIn:** *(Adicione aqui o link do post após publicar)*
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar este projeto com apoio de Inteligência Artificial mostrou na prática que a tecnologia multiplica a capacidade de entrega, mas é o conhecimento técnico prévio que garante a qualidade do resultado. Como iniciante na criação de materiais visuais com IA, meu maior aprendizado foi perceber que um bom prompt não nasce do zero: foi a minha base de estudos em **ISO/IEC 27001** e **FortiGate (Fortinet NSE 4)** que permitiu definir cenários reais, evitar erros conceituais (como confundir FSSO com MFA ou isolar ferramentas em um único pilar) e estruturar o comando no ChatGPT e no Gemini. O que mais me surpreendeu foi ver o Canva IA transformar essas especificações técnicas em diagramas claros e organizados, reforçando a importância da revisão crítica humana em cada etapa do processo.
